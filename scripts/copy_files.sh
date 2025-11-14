@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r /app/* /var/www/html/
+cp -r /opt/codedeploy-agent/deployment-root/*/deployment-archive/app/* /var/www/html/

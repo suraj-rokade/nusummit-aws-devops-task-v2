@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r /tmp/codedeploy-deployment/* /var/www/html/
+cp -f index.html /var/www/html/index.html

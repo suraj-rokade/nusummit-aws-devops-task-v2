@@ -1,2 +1,2 @@
 #!/bin/bash
-systemctl stop httpd 2>/dev/null || true
+sudo systemctl stop httpd || true
